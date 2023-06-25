@@ -20,7 +20,7 @@ const box = new BABYLON.MeshBuilder.CreateTube('tube' ,
   (6, 6 ,6),
   (9, 9 , 9)
   (12 , 12 , 12)
-]gg})
+]})
 
 
 return scene;
